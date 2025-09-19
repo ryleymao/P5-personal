@@ -1,8 +1,6 @@
 # P5-personal
 
-end to end
+This is a personal project and start up idea by me
+details will be shared once deployed but i am building an AI automation bot 
 
-user base
-
-
-
+we will be using: Python, Flask for web handling, and need to deply the app maybe Heroku
